@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Magnetica1(Jack)
-- 👀 I’m interested in Learning how to code to make helpfull tools, software, website, extentions and of cours GAMES!
-- 🌱 I’m currently learning Javascript, HTML/JS
-- 💞️ I’m looking to collaborate on nothing right now but maybe a hackathon later?
+- 👀 I’m extremly pationnate in learning how to code to make helpfull tools, software, website, extentions and of cours GAMES!
+- 🌱 I’m currently learning THREE.js and I already know HTML, CSS and C# with the unity framework
+- 💞 I’m looking to collaborate on nothing right now but maybe a hackathon later?
 - 📫 How to reach me : jackkw818@gmail.com
 
 <!---
